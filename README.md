@@ -84,7 +84,4 @@
 <p align="center">
   <img src="https://github.com/Shreya242005/Shreya242005/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-<p align="center">
-  <img src="https://github.com/Shreya242005/Shreya242005/blob/output/snake.svg" alt="Snake animation" />
-</p>
 

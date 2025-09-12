@@ -59,7 +59,7 @@
 
 ### 🎨 Beyond Coding  
 
-- 🏸 Badminton | 🎨 Painting | ✈️ Traveling | 🎶 Music Editing  
+- 🏸 Badminton | ✈️ Traveling|
 
 ---
 

@@ -22,9 +22,8 @@
 | Project | Description |
 | ------- | ----------- |
 | 🔐 [SecureWipe Pro](https://github.com/ismailali025/Securewipe) | Secure data wiping solution for trustworthy IT asset recycling |
-| 🛡 [Web Application Pentesting Toolkit](https://github.com/Shreya242005/Web-Pentesting-Toolkit) | Toolkit with Flask interface for efficient penetration testing |
+| 🛡 [Web Application Pentesting Toolkit](https://github.com/Shreya242005/Web-Pentesting-Toolkit) | Toolkit with Flask interface for efficient penetration testing 
 | ☁️ [Cloud Security Posture Management](https://github.com/Shreya242005/Cloud-Security-Posture-Management) | Visualizing & enhancing cloud security compliance |
-| 📊 Visualizing Intelligence Analysis & Investigation Techniques | Cybersecurity data visualization using Spark, MongoDB, and D3.js |
 | 🌐 [DoS Detection System](https://github.com/Shreya242005/Dos-Detection) | Detecting denial-of-service attack patterns with smart analytics |
 
 ---
@@ -40,8 +39,7 @@
 
 ### 🎨 Beyond Coding
 
-- 🏊‍♀️ Swimming | 🏸 Badminton | 💃 Dance | 🎨 Painting | 🧘 Yoga
-- 🎶 Music editing & video creation for YouTube
+-  🏸 Badminton | 🎨 Painting | 
 - ✈️ Love to travel and explore new experiences
 
 ---

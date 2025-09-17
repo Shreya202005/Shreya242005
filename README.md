@@ -97,7 +97,7 @@
   <a href="https://www.linkedin.com/in/shreya242005/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111" />
   </a>
-  <a href="mailto:shreyatadakala242005@gmail.com">
+  <a href="mailto:tadakalashreya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111" />
   </a>
   <a href="https://shreya242005.vercel.app/" target="_blank">

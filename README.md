@@ -33,14 +33,14 @@
 <td align="center" width="50%">
   <h3>🔐 SecureWipe Pro</h3>
   <p>A tool for secure data wiping and IT asset recycling.</p>
-  <a href="https://github.com/shreya242005/SecureWipe-Pro">
+  <a href="https://github.com/Shreya202005/Secure-Wipe">
     <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
   </a>
 </td>
 <td align="center" width="50%">
   <h3>🌐 Web Application Pentesting Toolkit</h3>
   <p>Toolkit with Flask UI to scan and test vulnerabilities.</p>
-  <a href="https://github.com/shreya242005/WebApp-Pentesting-Toolkit">
+  <a href="https://github.com/Shreya202005/Web-Pentesting-Toolkit">
     <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
   </a>
 </td>
@@ -50,14 +50,14 @@
 <td align="center" width="50%">
   <h3>☁️ Cloud Security Posture Management</h3>
   <p>Visualizing security posture for cloud infrastructure.</p>
-  <a href="https://github.com/shreya242005/Cloud-Security-Posture-Management">
+  <a href="https://github.com/Shreya202005/Cloud-Security-Posture-Management">
     <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
   </a>
 </td>
 <td align="center" width="50%">
   <h3>📊 Visualizing Threat Intelligence</h3>
   <p>Data visualization tools for cybersecurity analysts.</p>
-  <a href="https://github.com/shreya242005/Visualizing-Intelligence-Analysis">
+  <a href="https://github.com/Shreya202005/Visualizing-Intelligence-Analysis">
     <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
   </a>
 </td>
@@ -67,14 +67,14 @@
 <td align="center" width="50%">
   <h3>🌍 Portfolio Website</h3>
   <p>My personal portfolio built with React & Tailwind.</p>
-  <a href="https://github.com/shreya242005/my-portfolio">
+  <a href="https://github.com/Shreya202005/my-portfolio">
     <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
   </a>
 </td>
 <td align="center" width="50%">
   <h3>🛡️ DoS Detection</h3>
   <p>System for detecting and mitigating denial-of-service attacks.</p>
-  <a href="https://github.com/shreya242005/DoS-Detection">
+  <a href="https://github.com/Shreya202005/DoS-Detection">
     <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
   </a>
 </td>
@@ -86,24 +86,25 @@
 ### 📊 GitHub Stats (Neon Themed)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya242005&show_icons=true&theme=radical&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya242005&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreya202005&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya202005&theme=radical&hide_border=true" height="180px"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreya242005/" target="_blank">
+  <a href="https://www.linkedin.com/in/shreya202005/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111" />
   </a>
-  <a href="mailto:shreyatadakala242005@gmail.com">
+  <a href="mailto:tadakalashreya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111" />
   </a>
-  <a href="https://shreya242005.vercel.app/" target="_blank">
+  <a href="https://shreya202005.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111" />
   </a>
 </p>
+
 
 
                
